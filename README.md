@@ -40,3 +40,9 @@ npm install
 
 # 5. Compile frontend assets
 npm run dev
+
+# 6. Migrate and Seed
+php artisan migrate --seed
+
+# 7. Run Laravel
+php artisan serve
